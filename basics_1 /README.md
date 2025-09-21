@@ -1,4 +1,2 @@
-holbertonschool-network
-Change your home IP
-Show attached IPs
-Port listening on localhost
+# holbertonschool-network
+This project contains Bash scripts for networking basics.
